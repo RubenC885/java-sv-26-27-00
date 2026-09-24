@@ -1,4 +1,5 @@
 Algoritmo Ejercicio_08
+//prueba
 	Dimensionar circuito(10,10)
 	Para i=1 Hasta 10 Con Paso 1 Hacer
 		Para n=1 Hasta 10 Con Paso 1 Hacer
@@ -27,6 +28,6 @@ Algoritmo Ejercicio_08
 			Escribir "No hay un coche en ", filaC, ' ', colC;
 		FinSi
 	SiNo
-		Escribir "Fuera de los límites"
+		Escribir "Fuera de los lï¿½mites"
 	FinSi
 FinAlgoritmo
