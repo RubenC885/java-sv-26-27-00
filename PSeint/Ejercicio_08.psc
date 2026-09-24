@@ -1,5 +1,4 @@
 Algoritmo Ejercicio_08
-//prueba
 	Dimensionar circuito(10,10)
 	Para i=1 Hasta 10 Con Paso 1 Hacer
 		Para n=1 Hasta 10 Con Paso 1 Hacer
